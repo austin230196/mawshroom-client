@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --primary-bg-color: #E5990B;
+  --primary-text-color: #302B16;
+  --secondary-text-color: #834F24;
+  --tertiary-text-color: #FFFFFF80;
+}
+
+body {
+  font-family: 'Mochiy Pop One', sans-serif;
+}
